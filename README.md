@@ -32,7 +32,7 @@ The core of this implementation revolves around the following components:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/bwa-dna-sequence-alignment.git
+   git clone https://github.com/rohan-chandrashekar/bwa-dna-sequence-alignment.git
    cd bwa-dna-sequence-alignment
    ```
 
